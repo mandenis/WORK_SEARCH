@@ -1,0 +1,6 @@
+Первый отклин на работу после курсов. Сайт компании порадовал обилеем
+ полезностей со стороны тестировщика ;)
+Проектный тест кейс
+https://docs.google.com/spreadsheets/d/14oha04x6_GiCm_p8h2n_3pl-f9Z-tHmVIGSmiY-_uhs/edit#gid=0
+Отчет о дефектах
+https://docs.google.com/spreadsheets/d/1qk3qiI1m5Dwwp9sfSncPr2gDUr9ohRzYFdBPQ7MZYTc/edit#gid=0
