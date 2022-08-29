@@ -1,0 +1,5 @@
+Сценарий функционала на вход или регистрацию пользователя
+https://docs.google.com/spreadsheets/d/1VvS_hQdhIgFWd6fjEwvLNiuYLeQROzjxGRsrr-eITPI/edit?usp=sharing
+
+Дефект всего один. Пользователь введя некоректно цифру, должен понимать где ошибка
+https://docs.google.com/spreadsheets/d/1w6zp9f8NKA7flt7oQjbY6cd-RcVSV96_qOs8tim06lM/edit?usp=sharing
